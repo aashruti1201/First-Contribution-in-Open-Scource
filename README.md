@@ -116,10 +116,10 @@
 	    </td>
 	    </td>
 	<td align="center">
-		            <a href="  --github profile url--  ">
-		            <img src="  --image url --  " width="100px;"/>
+		            <a href="  https://avatars.githubusercontent.com/u/100468443?v=4  ">
+		            <img src="https://avatars.githubusercontent.com/u/100468443?s=400&v=4 " width="100px;"/>
 		            <br />
-		            <sub><b>  --your Name--  </b></sub>
+		            <sub><b>  Aashruti Patolia  </b></sub>
 		            </a>
 		</td>
         </tr>
